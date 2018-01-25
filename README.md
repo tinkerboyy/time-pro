@@ -4,13 +4,6 @@ Angular Pro: Final App Seed
 </h1>
 <h4 align="center">Seed app for fitness manager application using Angular v4+ and AngularFire2.</h4>
 
----
-
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banner.jpg"></a>
-
----
-
-> This repo serves as the seed project for the Ultimate Angular Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com/courses/) architecture!
 
 [Setup and install](#setup-and-install) |
 [Tasks](#tasks) |
