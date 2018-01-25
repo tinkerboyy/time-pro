@@ -1,7 +1,7 @@
 {
-  "name": "ua-pro-app-seed",
+  "name": "angular-4",
   "version": "0.0.0",
-  "author": "Ultimate Angular",
+  "author": "Madhukar",
   "license": "MIT",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack -p",
